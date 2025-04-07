@@ -1,2 +1,2 @@
-bitnami/postgresql
-unbuntu
+nginx
+postgres
